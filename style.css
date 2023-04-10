@@ -1,0 +1,27 @@
+body{
+    background-color:darkslategray;
+    color: oldlace;
+    font-family: 'DynaPuff', cursive;
+}
+.header_div {
+background-color:darkcyan;
+width: 100%;
+margin: 0;
+
+}
+#button{
+    background-color: cadetblue;
+    color: white;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-size: 20px  !important;
+
+}
+#heading{
+    color: black;
+   
+}
